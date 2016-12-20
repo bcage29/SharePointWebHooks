@@ -1,0 +1,11 @@
+﻿{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "SharePointPnPCoreOnline": "2.9.1611",
+        "Microsoft.IdentityModel": "6.1.7600.16394",
+        "Microsoft.Identity.Model.Extensions": "2.0.1459"
+      }
+    }
+  }
+}
